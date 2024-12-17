@@ -1,0 +1,11 @@
+Usage 
+=====
+
+Installation
+------------
+
+To use expense_manager_library, first install it using pip:
+
+.. code-block:: console
+
+    (.venv) $ pip install expense_manager_library
